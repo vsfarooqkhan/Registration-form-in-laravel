@@ -7,7 +7,8 @@ This is an Example program in laravel to register an user with username and pass
 Which can take the name, username and password.
 If password matches, then it retuns the name and the username as output.
 
-Files: app/Http/Controllers/UserRegistration.php
+Files:
+Controller : app/Http/Controllers/UserRegistration.php
 View : resources/view/register.php
 
 

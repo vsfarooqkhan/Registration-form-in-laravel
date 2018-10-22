@@ -18,3 +18,6 @@ Route::get('/register',function(){
    return view('register');
 });
 Route::post('/user/register',array('uses'=>'UserRegistration@postRegister'));
+
+Route::get('insert','StudInsertController@insertform');
+Route::post('create','StudInsertController@insert');

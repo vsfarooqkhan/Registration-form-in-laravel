@@ -18,11 +18,11 @@
             </tr>
             <tr>
                <td>Password</td>
-               <td><input type = "text" name = "password" /></td>
+               <td><input type = "password" name = "password" /></td>
             </tr>
 	    <tr>
 		<td> Confirm password:</td>
-		<td><input type = "text" name = "password1" /> </td>
+		<td><input type = "password" name = "password1" /> </td>
 	    </tr>
             <tr>
                <td colspan = "2" align = "center">

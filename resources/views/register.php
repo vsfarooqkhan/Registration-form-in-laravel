@@ -21,12 +21,12 @@
                <td><input type = "password" name = "password" /></td>
             </tr>
 	    <tr>
-		<td> Confirm password:</td>
+		<td> Confirm password: </td>
 		<td><input type = "password" name = "password1" /> </td>
 	    </tr>
             <tr>
                <td colspan = "2" align = "center">
-                  <input type = "submit" value = "Register" />
+                  <input type = "submit"  value = "Register" />
                </td>
             </tr>
          </table>

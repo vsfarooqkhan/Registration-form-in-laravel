@@ -20,3 +20,5 @@ stores it into mysql database and prints it in next page.
 Files :
 Controller : app/Http/Controllers/StudInsertController.php
 View : resources/views/stud-create.php
+
+New changes added

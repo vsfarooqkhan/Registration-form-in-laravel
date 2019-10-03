@@ -5,7 +5,7 @@
 
    <body>
       <form action = "/user/register" method = "post">
-         <input type = "hidden" name = "_token" value = "<?php echo csrf_token() ?>">
+         @csrf
       
          <table>
             <tr>
